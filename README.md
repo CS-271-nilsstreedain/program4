@@ -1,4 +1,4 @@
-# Program 4
+# Composite Number Spreadsheet
 
 ## Objectives
 1. Designing and implementing procedures
